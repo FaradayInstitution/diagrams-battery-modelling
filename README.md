@@ -1,4 +1,5 @@
 # Diagrams of continuum models for lithium-ion batteries
+[![DOI](https://zenodo.org/badge/460490814.svg)](https://zenodo.org/badge/latestdoi/460490814)
 
 This repository hosts the diagrams of continuum models for lithium-ion batteries, designed by [Amir Kosha Amiri](http://www.amiramiri.eu/) for the article
 
