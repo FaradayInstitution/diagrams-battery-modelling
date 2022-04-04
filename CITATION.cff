@@ -52,7 +52,7 @@ authors:
     given-names: Giles
     orcid: https://orcid.org/0000-0001-6225-8590
 title: "Diagrams for 'A Continuum of Physics-Based Lithium-Ion Battery Models Reviewed'"
-version: 0.2
+version: 0.3
 doi: 10.5281/zenodo.6411522
 license: CC-BY-4.0
 url: "https://github.com/FaradayInstitution/diagrams-battery-modelling"
