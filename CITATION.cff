@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use these diagrams, please cite this repository as below."
+authors:
+  - family-names: Amiri
+    given-names: Amir K.
+  - family-names: Brosa Planella
+    given-names: Ferran
+    orcid: https://orcid.org/0000-0001-6363-2812
+  - family-names: Ai
+    given-names: Weilong
+    orcid: https://orcid.org/0000-0003-2526-4654
+  - family-names: Boyce
+    given-names: Adam M.
+    orcid: https://orcid.org/0000-0002-8164-1808
+  - family-names: Ghosh
+    given-names: Abir
+    orcid: https://orcid.org/0000-0001-7345-1804
+  - family-names: Korotkin
+    given-names: Ivan
+    orcid: https://orcid.org/0000-0002-5023-3684
+  - family-names: Sahu
+    given-names: Smita
+    orcid: https://orcid.org/0000-0001-6537-5856
+  - family-names: Sulzer
+    given-names: Valentin
+    orcid: https://orcid.org/0000-0002-8687-327X
+  - family-names: Timms
+    given-names: Robert
+    orcid: https://orcid.org/0000-0002-8858-4818
+  - family-names: Tranter
+    given-names: Thomas G.
+    orcid: https://orcid.org/0000-0003-4721-5941
+  - family-names: Zyskin
+    given-names: Maxim
+    orcid: https://orcid.org/0000-0001-7224-7588
+  - family-names: Cooper
+    given-names: Samuel J.
+    orcid: https://orcid.org/0000-0003-4055-6903
+  - family-names: Edge
+    given-names: Jacqueline S.
+    orcid: https://orcid.org/0000-0003-4643-2426
+  - family-names: Foster
+    given-names: Jamie M.
+    orcid: https://orcid.org/0000-0002-6120-5734
+  - family-names: Marinescu
+    given-names: Monica
+    orcid: https://orcid.org/0000-0003-1641-3371
+  - family-names: Wu
+    given-names: Billy
+    orcid: https://orcid.org/0000-0003-3963-4900
+  - family-names: Richardson
+    given-names: Giles
+    orcid: https://orcid.org/0000-0001-6225-8590
+title: "Diagrams for 'A Continuum of Physics-Based Lithium-Ion Battery Models Reviewed'"
+version: 0.1
+# doi: 10.5281/zenodo.1234
+license: CC-BY-4.0
+url: "https://github.com/FaradayInstitution/diagrams-battery-modelling"
